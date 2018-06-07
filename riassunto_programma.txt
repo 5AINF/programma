@@ -1,0 +1,23 @@
+Riassunto argomenti:
+
+1. UDP
+	- C
+	- C++
+	
+2. Address
+	
+3. TCP
+	- C
+	- C++ - stl (standard template library)
+	- C++ - server multigestione (con thread/processi)
+	
+4. SQLite
+
+
+
+COMPETENZE NECESSARIE:
+- saper lavorare con le stringhe
+- saper utilizzare processi e thread
+
+COMPETENZE ACQUISITE:
+- implementare programmi che utilizzino un determinato protocollo
